@@ -1,0 +1,25 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "on this project i will be making some test on testing for JavaScript projects",
+  "main": "functions.test.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aizjicod/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aizjicod/testing-practice/issues"
+  },
+  "homepage": "https://github.com/aizjicod/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
